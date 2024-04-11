@@ -1,0 +1,26 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\Moe\Desktop\CMPT 365\Projects\Project 2\RunMe.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Moe\Desktop\CMPT 365\Projects\Project 2\.
+Java min ver:	1.000.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_291
+Check launcher:	C:\Program Files\Java\jre1.8.0_291\bin\javaw.exe (OK)
+Match:		1.008.000_291
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.1
+Check launcher:	C:\Program Files\Java\jdk-11.0.1\bin\javaw.exe (OK)
+Match:		1.011.000_001
+Runtime used:	1.011.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-11.0.1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Moe\Desktop\CMPT 365\Projects\Project 2\RunMe.exe"
+Args length:	65/32768 chars
+Exit code:	0
